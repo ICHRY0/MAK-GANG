@@ -51,6 +51,6 @@ Skills: PYTHON & HTML & JAVA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/MAK-GANG) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/mursalinahamedkhan) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://facebook.com/groups/mak-gang/) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://facebook.com/groups/makgang/) <br>
 
 <h2> THANKS FOR VISIT <h2\>
